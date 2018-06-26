@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="client-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="client-demo" target="1.8" />
+      <module name="config-server_main" target="1.8" />
+      <module name="config-server_test" target="1.8" />
+      <module name="service-demo" target="1.8" />
+      <module name="service-demo_main" target="1.8" />
+      <module name="service-demo_test" target="1.8" />
+      <module name="service-feign_main" target="1.8" />
+      <module name="service-feign_test" target="1.8" />
+      <module name="service-ribbon_main" target="1.8" />
+      <module name="service-ribbon_test" target="1.8" />
+      <module name="service-zuul_main" target="1.8" />
+      <module name="service-zuul_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

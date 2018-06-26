@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client-demo/client-demo.iml" filepath="$PROJECT_DIR$/client-demo/client-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server_main.iml" group="config-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server_test.iml" group="config-server" />
+      <module fileurl="file://$PROJECT_DIR$/my-spring-cloud-demo.iml" filepath="$PROJECT_DIR$/my-spring-cloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-demo/service-demo.iml" filepath="$PROJECT_DIR$/service-demo/service-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-demo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-demo_main.iml" group="service-demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-demo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-demo_test.iml" group="service-demo" />
+      <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-feign_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-feign_main.iml" group="service-feign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-feign_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-feign_test.iml" group="service-feign" />
+      <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-ribbon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-ribbon_main.iml" group="service-ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-ribbon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-ribbon_test.iml" group="service-ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-zuul_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-zuul_main.iml" group="service-zuul" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-zuul_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-zuul_test.iml" group="service-zuul" />
+    </modules>
+  </component>
+</project>
