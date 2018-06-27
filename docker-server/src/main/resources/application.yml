@@ -1,0 +1,5 @@
+server:
+  port: 8171
+spring:
+  application:
+    name: docker-server

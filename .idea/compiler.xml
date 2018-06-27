@@ -12,8 +12,15 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="client-demo" target="1.8" />
+      <module name="config-client_main" target="1.8" />
+      <module name="config-client_test" target="1.8" />
       <module name="config-server_main" target="1.8" />
       <module name="config-server_test" target="1.8" />
+      <module name="contral-server" target="1.8" />
+      <module name="contral-service_main" target="1.8" />
+      <module name="contral-service_test" target="1.8" />
+      <module name="docker-server_main" target="1.8" />
+      <module name="docker-server_test" target="1.8" />
       <module name="service-demo" target="1.8" />
       <module name="service-demo_main" target="1.8" />
       <module name="service-demo_test" target="1.8" />

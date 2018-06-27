@@ -3,9 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/client-demo/client-demo.iml" filepath="$PROJECT_DIR$/client-demo/client-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-client_main.iml" group="config-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/config-client_test.iml" group="config-client" />
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server_main.iml" group="config-server" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server_test.iml" group="config-server" />
+      <module fileurl="file://$PROJECT_DIR$/contral-service/contral-service.iml" filepath="$PROJECT_DIR$/contral-service/contral-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contral-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/contral-service_main.iml" group="contral-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contral-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/contral-service_test.iml" group="contral-service" />
+      <module fileurl="file://$PROJECT_DIR$/docker-server/docker-server.iml" filepath="$PROJECT_DIR$/docker-server/docker-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/docker-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/docker-server_main.iml" group="docker-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/docker-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/docker-server_test.iml" group="docker-server" />
       <module fileurl="file://$PROJECT_DIR$/my-spring-cloud-demo.iml" filepath="$PROJECT_DIR$/my-spring-cloud-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-demo/service-demo.iml" filepath="$PROJECT_DIR$/service-demo/service-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-demo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-demo_main.iml" group="service-demo" />

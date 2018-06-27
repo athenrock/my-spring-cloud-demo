@@ -7,8 +7,12 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/forezp/SpringcloudConfig/
-          search-paths: respo
+          uri: https://github.com/athenrock/my-spring-cloud-demo/
+          search-paths: SpringcloudConfig/respo/
           default-label: master
           username: your name
           password: your password
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8870/eureka/
